@@ -1,0 +1,21 @@
+{
+  "name": "@daugsbi/gatsby-theme-pwa",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Denis Augsburger <denis.augsburger@twteam.ch> (@denisaugsburger)",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby-plugin-manifest": "^2.0.29",
+    "gatsby-plugin-offline": "^3.0.16"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.16.4",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "devDependencies": {
+    "gatsby": "^2.16.4",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
